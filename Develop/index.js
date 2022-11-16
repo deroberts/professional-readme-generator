@@ -47,7 +47,7 @@ const questions = [
         {
             type: 'input',
             message: 'What are the test instructions?',
-            name: 'test',
+            name: 'instructions',
             validate: (value) => { if (value) { return true } else { return 'type something please' } }
         },
         {

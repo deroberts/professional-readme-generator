@@ -1,23 +1,23 @@
 
-  # readme gen  
+  # README Generator 
 
   ## License:
-  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) undefined undefined
+  ![GitHub license](https://img.shields.io/badge/license-none-blue.svg) undefined undefined
 
   ## Description: 
-    something
+    This application generates a readme using node js
   ## Table of Contents: 
     undefined
   
   ## Installation: 
-    none
+    run node index js in the terminal, or whichever filename user is trying to run
   ## Usage:
-    don't
+    Creates a README file for your application or project.
 
   ## Contribution Guidelines: 
-    pls
+    venmo me pls
   ## Test Instructions: 
-    undefined
+    run the commands in the terminal.
 
   ## Questions: 
   ### Github: deroberts
